@@ -1,0 +1,7 @@
+vendor/
+composer.lock
+.DS_Store
+.env
+TODO.todo
+var/
+.phpunit.cache/
